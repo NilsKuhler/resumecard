@@ -39,12 +39,9 @@ author:
 # Space(s) on the beginning of the line are not displayed partly because liquid display processing
 # _ are replaced by liquid display proces in html by " "
   summary:
-    - line: I am working as an IT consultant since 1994 on ambitious/international large projects for fortune 500 
-    - line: clients. I worked since 2008 worked for client Alliander and acted in different roles&#58;
-    - line: Data Engineer, (Devops) Developer, System Adminstration and Business Analyst. At Alliander I worked 
-    - line: in an environment with 150+ middleware Interfaces, applications and databases. As a team we were 
-    - line: responsible for 24/7 critical processes and resources. I worked with Waterfall, Agile, Six Sigma, 
-    - line:  Scrum and Kanban methodologies. 
+    - line: I am working as an IT consultant since 1994 on ambitious/international large projects for fortune 500 clients. I worked since 2008 worked for client Alliander and acted in different roles&#58;
+    - line: Data Engineer, (Devops) Developer, System Adminstration and Business Analyst.
+    - line: At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. As a team we were responsible for 24/7 critical processes and resources. I worked with Waterfall, Agile, Six Sigma, Scrum and Kanban methodologies. 
     - line:     
     - line: To keep up to date in the ever changing IT world I (self) study often. Certifications aquired&#58;
     - line: _&#62;30%CISSP, Scrum, JAVA, Oracle DBA, MCSE + Internet, MS Developer, ...
@@ -55,9 +52,7 @@ author:
     - line: _&#62;15% Soft Skills & Management(Scrum, Agile, Six Sigma Black Belt, ...)
     - line: _&#62;10% IT Architectuur(TOGAF, ...) & Wiskunde(Statistiek, ...)
     - line: 
-    - line: My ambitions for the future as a data engineer are to work on data science/AI solutions in
-    - line: collaboration with clients. Ideally I would like to work with the 
-    - line: Apache Hadoop ecosystem (Hive, Kafka, ...) and Python.)
+    - line: My ambitions for the future as a data engineer are to work on data science/AI solutions in collaboration with clients. Ideally I would like to work with the Apache Hadoop ecosystem (Hive, Kafka, ...) and Python.)
   workHistory:
     - work1:
       company: Ciber Consultancy - Client Alliander
