@@ -13,7 +13,7 @@ layout: default
 	                          <div class="timeline-panel grid-block">
                                 <div class="timeline-heading">					
                                 </div>
-								<div class="text-muted">
+								<div class="timeline-body">
 								    {% for line in site.author.summary %}									       
 									     {% assign output = line.first | remove_first: "line"  | replace: "_", " " | replace: "]" | slice: 5, 200 | remove: '"' %}	 
 										 {% if output=="nil" %}		
