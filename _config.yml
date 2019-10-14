@@ -40,7 +40,8 @@ author:
 # _ are replaced by liquid display process in html by " "
   summary:
     - line: I have been working as an IT consultant since 1994 on ambitious and/or international large projects for fortune 500 clients. I worked since 2008 for client Alliander and acted in different roles&#58;
-    - line: Data Engineer, (Devops) Developer, System Administrator and Business Analyst. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. As a team we were responsible for 24/7 critical processses and resources. I worked with Waterfall, Agile, Six Sigma, Scrum and Kanban methodologies. 
+    - line: Data Engineer, (Devops) Developer, System Administrator and Business Analyst. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. As a team we 
+    - line: were responsible for 24/7 critical processses and resources. I worked with Waterfall, Agile, Six Sigma, Scrum and Kanban methodologies. 
     - line:     
     - line: To keep up to date in the ever changing IT world I (self) study often. Certifications acquired&#58;
     - line: _&#62;30%CISSP, Scrum, JAVA, Oracle DBA, MCSE + Internet, MS Developer, ...
