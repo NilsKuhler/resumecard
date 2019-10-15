@@ -15,7 +15,7 @@ layout: default
                                 </div>
 								<div class="timeline-body">
 								    {% for line in site.author.summary %}									       
-									     {% assign output = line.first | remove_first: "line"  | replace: "_", " " | replace: "]" | slice: 5, 200 | remove: '"' %}	 
+									     {% assign output = line.first | remove_first: "line"  | replace: "_", " " | replace: "]" | slice: 5, 400 | remove: '"' %}	 
 										 {% if output=="nil" %}		
                                             <p><br></p>											 
 			                             {% else %}	

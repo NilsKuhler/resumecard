@@ -34,18 +34,22 @@ author:
 # jekyll 4.0.0 | Error:  (/srv/jekyll/_config.yml): could not find expected ':' while scanning a simple key at line
 # I introduce the following -line solution  ...
 # NK 11 oct Added Summary field. 
-# Please add max 103 text.size string summary text on the - line: elements.
+# Please add max 103 text.size string summary text on the - line: elements. Some character sequences/words/sentences 
+# are not shown correctly. However underneeth it show that you can use >103 chars. 
+# I have not yet determined all constraints on characters to be used in this yaml. 
+# Check comments underneeth... for more info on constraints. 
 # Use empty lines "    - line:" for new lines. I could not find any way to use \n newlines in _config.yml files
 # You cannot use a unicode character as the first character of an line sentence
 # You cannot use : colon character in this *.yml file or in the summary text; use unicode "&#58;" for ":" colons 
 # You cannot use > character in this *.yml file or in the summary text or unicode &gt or &#62;
 # You cannot use a lot of other symbols that like -, ... all because they have a yml data function. 
 # Space(s) on the beginning of the line are not displayed partly because liquid display processsing
-# _ are replaced by liquid display process in html by " "
+# _ are replaced by summary field liquid display function logic in the index.html by " "
+# _ Please note that max line lenght in this function is hardcoded to 400 characters.  " 
   summary:
     - line: I have been working as an IT consultant since 1994 on ambitious and/or international large projects for fortune 500 clients. I worked since 2008 for client Alliander and acted in different roles&#58;
-    - line: Data Engineer, (Devops) Developer, System Administrator and Business Analyst. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. 
-    - line: As a team we were responsible for 24/7 critical processses and resources. I worked with Waterfall, Agile, Six Sigma, Scrum and Kanban methodologies. 
+    - line: Data Engineer, (Devops) Developer, System Administrator and Business Analyst.
+    - line: At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. As a team we were responsible for 24/7 critical processses and resources. I worked with Waterfall, Agile, Six Sigma, Scrum and Kanban methodologies. 
     - line:     
     - line: To keep up to date in the ever changing IT world I (self) study often. Certifications acquired&#58;
     - line: _&#62;30%CISSP, Scrum, JAVA, Oracle DBA, MCSE + Internet, MS Developer, ...
@@ -56,7 +60,7 @@ author:
     - line: _&#62;15% Soft Skills & Management(Scrum, Agile, Six Sigma Black Belt, ...)
     - line: _&#62;10% IT Architectuur(TOGAF, ...) & Wiskunde(Statistiek, ...)
     - line: 
-    - line: My ambitions for the future are to work as a data engineer on data science/AI solutions in collaboration with clients. Ideally I would like to work in a Apache Hadoop ecosystem/environment and Python.
+    - line: My ambitions for the future are to work as a data engineer on data science/AI solutions in collaboration with clients. Ideally I would like to work in a Apache Hadoop ecosystem/environment(Hive, Kafka, ...) and Python.
   workHistory:
     - work1:
       company: Ciber Consultancy - Client Alliander
