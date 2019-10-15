@@ -2,12 +2,12 @@
 title: Nils Kuhler CV 
 description: Nils Kuhler CV
 favicon: /assets/img/foto.jpg
-# Uncomment baseurl and url settings when deploying to github/remotely
-baseurl: "https://nilskuhler.github.io/resumecard/"  # Use "" when running locally
-url: "https://nilskuhler.github.io/resumecard/"      # Use "" when running locally
-# Uncomment baseurl and url settings when running locally
-# baseurl: "https://nilskuhler.github.io/resumecard/"  # Use above setting when running remotely
-# url: "https://nilskuhler.github.io/resumecard/"      # Use above setting when running remotely
+# OR>>Uncomment baseurl and url settings when deploying to github/remotely
+baseurl: "https://nilskuhler.github.io/resumecard/"  
+url: "https://nilskuhler.github.io/resumecard/"      
+# OR>>Uncomment baseurl and url settings when running locally. baseurl and url need to be ""
+# baseurl: ""                                        # Use above setting when running remotely
+# url: ""                                            # Use above setting when running remotely
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -30,12 +30,14 @@ author:
   gavatar: /resumecard/assets/img/foto.jpg
   stackoverflow:
 #  stackoverflow: 4582127
-# Issue: Could not find a quick solution to print a multiline text \n does not work /n
-# jekyll 4.0.0 | Error:  (/srv/jekyll/_config.yml): could not find expected ':' while scanning a simple key at line
-# I introduce the following -line solution  ...
 # NK 11 oct Added Summary field. 
-# Please add max 103 text.size string summary text on the - line: elements. Some character sequences/words/sentences 
-# are not shown correctly. However underneeth it show that you can use >103 chars. 
+# Issue: Could not find a quick solution to print a multiline text \n does not work /n in -line or text fields
+# jekyll 4.0.0 | Error:  (/srv/jekyll/_config.yml): could not find expected ':' while scanning a simple key at line
+# I haved introduce the following -line concept  ... it is not yet perfect
+# Space(s) on the beginning of the line are not displayed partly because liquid display processsing
+# _ are replaced by summary field liquid display function logic in the index.html by " "
+# Please note that max line lenght in this function is hardcoded to 400 characters.  " 
+# Please note that approx. max 103 text.size string summary text fit on the - line: elements. 
 # I have not yet determined all constraints on characters to be used in this yaml. 
 # Check comments underneeth... for more info on constraints. 
 # Use empty lines "    - line:" for new lines. I could not find any way to use \n newlines in _config.yml files
@@ -43,9 +45,6 @@ author:
 # You cannot use : colon character in this *.yml file or in the summary text; use unicode "&#58;" for ":" colons 
 # You cannot use > character in this *.yml file or in the summary text or unicode &gt or &#62;
 # You cannot use a lot of other symbols that like -, ... all because they have a yml data function. 
-# Space(s) on the beginning of the line are not displayed partly because liquid display processsing
-# _ are replaced by summary field liquid display function logic in the index.html by " "
-# _ Please note that max line lenght in this function is hardcoded to 400 characters.  " 
   summary:
     - line: I have been working as an IT consultant since 1994 on ambitious and/or international large projects for fortune 500 clients. I worked since 2008 for client Alliander and acted in different roles&#58;
     - line: Data Engineer, (Devops) Developer, System Administrator and Business Analyst.
