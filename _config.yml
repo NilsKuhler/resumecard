@@ -2,8 +2,12 @@
 title: Nils Kuhler CV 
 description: Nils Kuhler CV
 favicon: /assets/img/foto.jpg
+# Uncomment baseurl and url settings when deploying to github/remotely
 baseurl: "https://nilskuhler.github.io/resumecard/"  # Use "" when running locally
 url: "https://nilskuhler.github.io/resumecard/"      # Use "" when running locally
+# Uncomment baseurl and url settings when running locally
+# baseurl: "https://nilskuhler.github.io/resumecard/"  # Use above setting when running remotely
+# url: "https://nilskuhler.github.io/resumecard/"      # Use above setting when running remotely
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
