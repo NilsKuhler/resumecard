@@ -196,7 +196,7 @@ author:
       name: Programming - Scala, Ruby, C(++), Android other
       percentage: 70%
     - skill3:
-      name: Data Science
+      name: Databases(DBA, Oracle, SQL, NOSQL)
       percentage: 70%
     - skill6:
       name: Data Science (ML, DL, AI)
