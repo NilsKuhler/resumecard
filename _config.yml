@@ -1,13 +1,13 @@
 # Site settings
 title: Nils Kuhler CV 
 description: Nils Kuhler CV
-favicon: /assets/img/foto.jpg
+favicon: /assets/img/favicon.jpg
 # OR>>Uncomment baseurl and url settings when deploying to github/remotely
 baseurl: "https://nilskuhler.github.io/resumecard/"  
 url: "https://nilskuhler.github.io/resumecard/"      
 # OR>>Uncomment baseurl and url settings when running locally. baseurl and url need to be ""
-# baseurl: ""                                        # Use above setting when running remotely
-# url: ""                                            # Use above setting when running remotely
+##baseurl: ""                                        # Use above setting when running remotely
+##url: ""                                            # Use above setting when running remotely
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -51,13 +51,13 @@ author:
     - line: At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. As a team we were responsible for 24/7 critical processses and resources. I worked with Waterfall, Agile, Six Sigma, Scrum and Kanban methodologies. 
     - line:     
     - line: To keep up to date in the ever changing IT world I (self) study often. Certifications acquired&#58;
-    - line: _&#62;30%CISSP, Scrum, JAVA, Oracle DBA, MCSE + Internet, MS Developer, ...
+    - line: _&#62; CISSP, Scrum, JAVA, Oracle DBA, MCSE + Internet, MS Developer, ...
     - line: Summary of accomplished 100+ Educations/certifications&#58;
     - line: _&#62; Data science(Hadoop Eco(Kafka, Hive...) , Data Visualization, AI/ML/DL, ...)
     - line: _&#62; Programming(Java, Python, Scala, R, Web design, ...)
     - line: _&#62; IT(Security, Cloud, (Docker) Virtualization, Networking, ...)
     - line: _&#62; Soft Skills & Management(Scrum, Agile, Six Sigma Black Belt, ...)
-    - line: _&#62; IT Architectuur(TOGAF, ...) & Wiskunde(Statistiek, ...)
+    - line: _&#62; IT Architecture(Java Architect, ...) & Mathematics(Statistics, ...)
     - line: 
     - line: I have a preference working on data science solutions. Ideally I would like to work in a Apache Hadoop ecosystem/environment(Hive, Kafka, ...) and Python.
   workHistory:
@@ -88,7 +88,7 @@ author:
       title: Development, Devops System Administration
       started: 
       duration: 
-      description: I worked in maintenance and DEVOPS development on Oracle Weblogic Service Bus, linux, python, java, scala, tomcat web apps and databases. I have implemented security guidelines. My tasks also included 24/7 monitoring tasks using (customizable) tooling like Nagios and solving (critical) incidents.
+      description: I worked in maintenance and DEVOPS development on Oracle Weblogic Service Bus, linux, Python, java, scala, tomcat web apps and databases. I have implemented security guidelines. My tasks also included 24/7 monitoring tasks using (customizable) tooling like Nagios and solving (critical) incidents.
     - work5:
       company: Ciber Consultancy
       location: Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
@@ -119,15 +119,15 @@ author:
       description:  I worked as a clipper DBA
   educationHistory:
     - education1:
-      organization: Contact me for a complete (100+) list of completed self study MOOC courses on Coursera certifications !!!
+      organization: Contact me for a complete (100+) list of completed courses & certifications !!!
       location: 
       degree: 
       major: 
       started: 2019
       duration: 1997 - now
-      description: I have completed 100+ self study courses. Certifications acquired among other things &#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
+      description: I have completed 100+ (self study) courses & certifications. Certifications acquired among other things &#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
     - education2:
-      organization: Online Mooc courses on Coursera by Stanford, Johns Hopkins, Vanderbilt, ...
+      organization: Oracle, Microsoft, Coursera by Stanford, Johns Hopkins, Vanderbilt, ...
       location: 
       degree: 
       major: 
@@ -193,7 +193,7 @@ author:
       name: Programming - Java, Python, HTML, Jscript, ...
       percentage: 80%
     - skill4:
-      name: Programming - Scala, Ruby, C(++), Android other
+      name: Programming - Scala, Ruby, C(++), Android, other
       percentage: 70%
     - skill3:
       name: Databases(DBA, Oracle, SQL, NOSQL)
