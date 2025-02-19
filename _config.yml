@@ -68,17 +68,11 @@ author:
     - line:  Now seeking to leverage my expertise in Data Science, Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI) for impactful projects.
   workHistory:
     - work1:
-      company: Experis Consultancy - Client Alliander
+      company: Experis Consultancy(known as Ciber before acquisition) - Client Alliander
       location: Zutphen, Haarlem, Amsterdam
       title: Senior Technical Consultant
       started: 2008
       duration: 2008 - 2019  
-    - work2:
-      company: Ciber Consultancy - Client Alliander
-      location: Zutphen, Haarlem, Amsterdam
-      title: Senior Technical Consultant
-      started: 2008
-      duration: 2008 - 2019
       description: As an external Ciber consultant I have worked a decade+ a for our client Alliander(Dutch Energy company) on long term assignments for different departments. Initially I started as a Developer, later I switched roles to Devops System Administrator, Data Engineer, Business Analyst/IT Liaison. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases.
     - work3:
       company: 
@@ -107,7 +101,7 @@ author:
       title: Senior Technical Consultant
       started: 2004
       duration: 2004 - 2008
-      description: I have worked as Developer, Designer, Test coordination for the following clients RGD, CIZ, Wereld Omroep, Nuon.
+      description: Worked as Developer, Designer, Test coordination for the following clients RGD, CIZ, Wereld Omroep, Nuon.
     - work7:
       company: Hewlett Packard Consultancy
       location: Amstelveen, Utrecht, Brussels - Belgium
@@ -137,15 +131,15 @@ author:
       major: 
       started: 2025
       duration: 1997 - now
-      description: Completed 100+ (self study) courses & certifications. Certifications acquired among other things &#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
+      description: Completed 100+ (self study) courses & certifications. Certifications acquired among which&#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
     - education2:
-      organization: For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
+      organization:
       location: 
       degree: 
       major: 
       started: 2025
       duration: 1997 - now
-      description: I have completed 50+ online courses from Coursera by Stanford, Johns Hopkins, Vanderbilt, ... among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
+      description: Completed 50+ online courses from Coursera by Stanford, Johns Hopkins, Vanderbilt, ... among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
     - education3: 
       organization: Professional courses
       location: 
@@ -212,7 +206,7 @@ author:
       percentage: 70%
     - skill6:
       name: Data Science (ML, DL, AI)
-      percentage: 50%
+      percentage: 60%
       
       
       
