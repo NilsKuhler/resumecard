@@ -48,8 +48,9 @@ author:
 # You cannot use > character in this *.yml file or in the summary text or unicode &gt or &#62;
 # You cannot use a lot of other symbols that like -, ... all because they have a yml data function. 
   summary:
-    - line: Nils is an experienced IT consultant with a proven track record since 1994, 
-    - line: successfully delivering large-scale, ambitious, and international projects for Fortune 500 clients. 
+    - line:
+    - line: Nils is an experienced IT consultant with a proven track record since 1994,
+    - line: successfully delivering large scale, ambitious, and international projects for Fortune 500 clients.
     - line: His experience includes&#58;
     - line: _&#62; Roles&#58; Data Engineer, Data Analyst, DevOps Developer, System Administrator, and Business Analyst
     - line: _&#62; Expertise in managing complex IT landscapes with 150+ middleware interfaces, applications, and databases
