@@ -18,8 +18,8 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Nils Kuhler
-  title: Devops Data Engineer
+  name: Nils Kuhler2
+  title: Devops Data Engineer2
   address: Amsterdam, The Netherlands
   email: Please use linked in for further (contact of feedback) info
   link: https://nilskuhler.github.io/mygithub/
@@ -59,7 +59,7 @@ author:
     - line: _&#62; Soft Skills & Management(Scrum, Agile, Six Sigma Black Belt, ...)
     - line: _&#62; IT Architecture(Java Architect, ...) & Mathematics(Statistics, ...)
     - line: 
-    - line: I have a preference working on data science solutions. Ideally I would like to work in a Apache Hadoop ecosystem/environment(Hive, Kafka, ...) and Python.
+    - line: I have a preference working on data science solutions.
   workHistory:
     - work1:
       company: Ciber Consultancy - Client Alliander
