@@ -19,17 +19,18 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Nils Kuhler2
-  title: Devops Data Engineer2
+  name: Nils Kuhler
+  title: Data Sciene Engineer/Business Analist
   address: Amsterdam, The Netherlands
   email: Please use linked in for further (contact of feedback) info
-  link: https://nilskuhler.github.io/mygithub/
-  weibo:
-  github: nilskuhler
   linkedin: nilskuhler
-  twitter: 
+  link: https://nilskuhler.github.io/mygithub/
+  link: https://nilskuhler.github.io/Blog/course/
+# weibo:
+  github: nilskuhler
+# twitter: 
   gavatar: /resumecard/assets/img/foto.jpg
-  stackoverflow:
+# stackoverflow:
 #  stackoverflow: 4582127
 # NK 11 oct Added Summary field. 
 # Issue: Could not find a quick solution to print a multiline text \n does not work /n in -line or text fields
