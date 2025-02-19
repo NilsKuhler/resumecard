@@ -127,21 +127,21 @@ author:
       description:  I worked as a clipper DBA
   educationHistory:
     - education1:
-      organization: For a complete list of courses and certifications see/click above link https://nilskuhler.github.io/Blog/course/
+      organization: For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
       location: 
       degree: 
       major: 
-      started: 2019
+      started: 2025
       duration: 1997 - now
-      description: I have completed 100+ (self study) courses & certifications. Certifications acquired among other things &#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
+      description: Completed 100+ (self study) courses & certifications. Certifications acquired among other things &#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
     - education2:
-      organization: For a complete list of courses and certifications see/click above link https://nilskuhler.github.io/Blog/course/ among which Oracle, Microsoft, Coursera by Stanford, Johns Hopkins, Vanderbilt, ...
+      organization: For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
       location: 
       degree: 
       major: 
-      started: 2005
-      duration: 2005 - now
-      description: I have completed 50+ online courses among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
+      started: 2025
+      duration: 1997 - now
+      description: I have completed 50+ online courses from Coursera by Stanford, Johns Hopkins, Vanderbilt, ... among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
     - education3: 
       organization: Professional courses
       location: 
