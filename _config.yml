@@ -2,6 +2,7 @@
 title: Nils Kuhler CV 
 description: Nils Kuhler CV
 favicon: /assets/img/favicon.jpg
+locationJPG: /assets/img/020_fix.jpg
 # OR>>Uncomment baseurl and url settings when deploying to github/remotely
 baseurl: "https://nilskuhler.github.io/resumecard/"  
 url: "https://nilskuhler.github.io/resumecard/"      
