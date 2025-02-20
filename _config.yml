@@ -68,7 +68,7 @@ author:
     - line:  Now seeking to leverage my expertise in Data Science, Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI) for impactful projects.
   workHistory:
     - work2:
-      company: Experis Consultancy(known as Ciber before acquisition) - Client Alliander
+      company: Experis Consultancy(known as Ciber before acquisition in 2016) - Client Alliander
       location: Zutphen, Haarlem, Amsterdam
       title: Senior Technical Consultant
       started: 2008
@@ -80,7 +80,7 @@ author:
       title: Data Engineer
       started: 
       duration: 
-      description: Nils provided Alliander with technical support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
+      description: Nils provided Alliander with technical and business support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
     - work4:
       company: 
       location:
@@ -125,13 +125,13 @@ author:
       description: Worked as DBA
   educationHistory:
     - education1:
-      organization: Courses & Certifications&#58; For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
+      organization: Courses & Certifications&#58; For a complete courses and certifications overview click above github course link in CV header
       location: 
       degree: 
       major: 
       started: 2025
       duration: 1997 - now
-      description: Completed 100+ courses & certifications. Certifications acquired among which&#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
+      description: Completed 100+ courses & certifications. Certifications acquired among which&#58; CISSP, Scrum, Java (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
     - education2:
       organization: Professional courses
       location: 
@@ -141,7 +141,7 @@ author:
       duration: 1997 - now
       description: Completed 50+ online (self study) courses from Coursera by Stanford, Johns Hopkins, Vanderbilt, ... among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
     - education3: 
-      organization: 
+      organization: Online Courses
       location: 
       degree: 
       major: 
