@@ -125,23 +125,23 @@ author:
       description: Worked as DBA
   educationHistory:
     - education1:
-      organization: For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
+      organization: Courses & Certifications&#58; For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
       location: 
       degree: 
       major: 
       started: 2025
       duration: 1997 - now
-      description: Completed 100+ (self study) courses & certifications. Certifications acquired among which&#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
+      description: Completed 100+ courses & certifications. Certifications acquired among which&#58; CISSP, Scrum, JAVA (Architect), Oracle DBA, MCSE + Internet, MS Developer, ... 
     - education2:
-      organization:
+      organization: Professional courses
       location: 
       degree: 
       major: 
       started: 2025
       duration: 1997 - now
-      description: Completed 50+ online courses from Coursera by Stanford, Johns Hopkins, Vanderbilt, ... among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
+      description: Completed 50+ online (self study) courses from Coursera by Stanford, Johns Hopkins, Vanderbilt, ... among which&#58; Cloud Computing, (R) Data Science(Statistical, Interference, Developing Data Products, Data Analysis, Machine Learning, Regression, Models, Reproducible Research), Data mining, Java, Scala, Android, Machine Learning (by Andrew NG)
     - education3: 
-      organization: Professional courses
+      organization: 
       location: 
       degree: 
       major: 
