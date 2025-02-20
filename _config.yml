@@ -67,12 +67,26 @@ author:
     - line: 
     - line:  Now seeking to leverage my expertise in Data Science, Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI) for impactful projects.
   workHistory:
+    - work3:
+      company: Alliander
+      location:
+      title: Consultant - Data Engineer
+      started: 2017
+      duration: 2017 - 2019
+      description: Nils provided technical and business support to Alliander the reconciliation (critical,24/7) core process within the company. His responsibilities included database performance tuning, migrations, system phase-outs, and ETL (Extract, Transform, Load) processes. He worked extensively on data manipulation for critical processes using Excel, Notepad++, Oracle Loader, PL/SQL, and custom scripting. Additionally, he participated in a proof-of-concept project utilizing Apache Hadoop and Cassandra Database in the Amazon Cloud.
+    - work4:
+      company: Alliander
+      location:
+      title: Consultant - Business Analyst/IT Liaison
+      started: 2013
+      duration: 2013 - 2017
+      description: Nils worked on the CARS (Centraal Aansluitingen Register) and SOW (Stroomopwaarts) projects, both of which were large-scale initiatives in the Dutch energy sector involving multiple stakeholders. He was responsible for AS1 and AS2 security and technical communication. Serving as the point of contact for external parties, including EDSN, TENNET, and AS1/AS2 partners. Q&A of deliverables, including testing against acceptance criteria, Documentation management, CMDB maintenance, and ensuring compliance with technical standards. Drafting security guidelines to enhance system integrity and regulatory compliance.
     - work5:
       company: NUON & Alliander - Initially worked for NUON, which demerged into NUON and Alliander in 2009, and continued working for Alliander thereafter.
       location:
       title: Consultant Developer, Devops System Administrator
       started: 2008
-      duration: 2013
+      duration: 2008 - 2013
       description: Nils initially worked in DevOps development, completing key deliverables before transitioning to system administration after two years. He worked with technologies such as Oracle WebLogic Service Bus, Linux, Python, Java, Scala, Tomcat web applications, and databases. He also implemented security guidelines to enhance system integrity. His additional responsibilities included 24/7 monitoring using customizable tools like Nagios, as well as troubleshooting and resolving critical incidents.
     - work6:
       company: Hewlett Packard Consultancy
@@ -92,7 +106,7 @@ author:
       company: FDM Pharma
       location: Sopia Antipolis, France
       title: DBA
-      started: 1995
+      started: 1994
       duration: 1994 - 1995
       description: Worked as DBA
   educationHistory:
