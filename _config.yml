@@ -71,7 +71,8 @@ author:
       company: Experis Consultancy(known as Ciber before acquisition in 2016)
       location: Zutphen, Haarlem, Amsterdam, Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
       title: Senior Technical Consultant
-      started: 2025 # Put here an end date to have a logical time line
+      # Put underneeth a end date to have a logical time line
+      started: 2025
       duration: 2005 - Now  
       description: Most recently, Nils worked as a Data Engineer and Data Analyst for several Dutch government agencies, including RIVM, RVIG, and UWV. Prior to that, he spent over a decade at Alliander (a Dutch energy company) on long-term assignments across various departments. He initially joined Alliander as a Developer before transitioning into roles such as DevOps System Administrator, Data Engineer, and Business Analyst/IT Liaison. At Alliander, he operated in a complex IT environment with 150+ middleware interfaces, applications, and databases. Additionally, he has worked as a Developer, Designer, and Test Coordinator for clients such as RGD, CIZ, Wereld Omroep, and Nuon.
     - work2:
