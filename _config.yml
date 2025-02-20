@@ -67,34 +67,34 @@ author:
     - line: 
     - line:  Now seeking to leverage my expertise in Data Science, Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI) for impactful projects.
   workHistory:
-    - work1:
+    - work2:
       company: Experis Consultancy(known as Ciber before acquisition) - Client Alliander
       location: Zutphen, Haarlem, Amsterdam
       title: Senior Technical Consultant
       started: 2008
       duration: 2008 - 2019  
-      description: As an external Ciber consultant I have worked a decade+ a for our client Alliander(Dutch Energy company) on long term assignments for different departments. Initially I started as a Developer, later I switched roles to Devops System Administrator, Data Engineer, Business Analyst/IT Liaison. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases.
+      description: As an external Ciber consultant Nils worked a decade+ a for client Alliander(Dutch Energy company) on long term assignments for different departments. Initially he started as a Developer, later switched roles to Devops System Administrator, Data Engineer, Business Analyst/IT Liaison. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases.
     - work3:
       company: 
       location:
       title: Data Engineer
       started: 
       duration: 
-      description: I provided Alliander with technical support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
+      description: Nils provided Alliander with technical support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
     - work4:
       company: 
       location:
       title: Business Analyst/IT Liaison
       started: 
       duration: 
-      description: I worked on CARS (Centraal aansluitingen register) and SOW(Stroomopwaarts) projects. CARS & SOW haven been very large projects(many partipants/parties involved) in the Dutch energy sector. I was responsible for&#58; AS1 en AS2 security and technical communication, the contact with external parties (EDSN, TENNET, AS1&AS2), Q&A(e.g. testing Acceptance Criteria) of deliverables, documentation, CMDB, Technical standards and drafting Security guidelines.
+      description: Nils worked on CARS (Centraal aansluitingen register) and SOW(Stroomopwaarts) projects. CARS & SOW haven been very large projects(many partipants/parties involved) in the Dutch energy sector. Nils was responsible for&#58; AS1 en AS2 security and technical communication, the contact with external parties (EDSN, TENNET, AS1&AS2), Q&A(e.g. testing Acceptance Criteria) of deliverables, documentation, CMDB, Technical standards and drafting Security guidelines.
     - work5:
       company: 
       location:
       title: Development, Devops System Administration
       started: 
       duration: 
-      description: I worked in maintenance and DEVOPS development on Oracle Weblogic Service Bus, linux, Python, java, scala, tomcat web apps and databases. I have implemented security guidelines. My tasks also included 24/7 monitoring tasks using (customizable) tooling like Nagios and solving (critical) incidents.
+      description: Nils worked in maintenance and DEVOPS development on Oracle Weblogic Service Bus, linux, Python, java, scala, tomcat web apps and databases. Nils has implemented security guidelines. Other tasks also included 24/7 monitoring tasks using (customizable) tooling like Nagios and solving (critical) incidents.
     - work6:
       company: Ciber Consultancy
       location: Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
@@ -108,21 +108,21 @@ author:
       title: (Technical) Consultant
       started: 2000
       duration: 2000 - 2004
-      description: I have worked as a Developer, Designer, Security Specialist. I developed in C(++), Microsoft solutions and Java. I worked for clients KPN, ABN Amro and Toyota. For Toyota I worked on the implementation of a SSO security portal.
+      description: Worked as a Developer, Designer, Security Specialist. I developed in C(++), Microsoft solutions and Java. I worked for clients KPN, ABN Amro and Toyota. For Toyota worked on the implementation of a SSO security portal.
     - work8:
       company: Cambrigde Technology Partners Consultancy
       location: Frankfurt - Germany, Vienna - Austria, Amsterdam, Utrecht, Maastricht, Woerden
       title: Senior (Technical) Consultant
       started: 1995
       duration: 1995 - 2000
-      description: I worked for clients Vrij Uit, HP, Philips, Interpay, Viag Interkom, Libertel, Achmea, Gerling. For Philips I worked on a large oracle data migrition project. Technologies used&#58; Java, Unix, C++, Oracle PL SQL and Python.
+      description: Worked for clients Vrij Uit, HP, Philips, Interpay, Viag Interkom, Libertel, Achmea, Gerling. For Philips worked on a large oracle data migrition project. Technologies used&#58; Java, Unix, C++, Oracle PL SQL and Python.
     - work9:
       company: FDM Pharma
       location: Sopia Antipolis, France
       title: DBA
       started: 1995
       duration: 1994 - 1995
-      description:  I worked as a clipper DBA
+      description: Worked as DBA
   educationHistory:
     - education1:
       organization: For a complete courses and certifications overview click above link https://nilskuhler.github.io/Blog/course/
