@@ -68,7 +68,7 @@ author:
     - line:  Now seeking to leverage my expertise in Data Science, Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI) for impactful projects.
   workHistory:
     - work1:
-      company: 2Experis Consultancy(known as Ciber before acquisition in 2016)
+      company: Experis Consultancy(known as Ciber before acquisition in 2016)
       location: Zutphen, Haarlem, Amsterdam, Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
       title: Senior Technical Consultant
       started: 2005
@@ -82,7 +82,7 @@ author:
       duration: 2019 - 2025
       description: At RIVM, the focus was on exposing (open) datasets both within and outside the organization using a GeoCat/GeoNetwork open data catalog. Nils also assisted with systems management for the open data catalog. At RVIG, he worked on data analytics, managing large datasets in PostgreSQL. He optimized performance by refactoring code, for example, to facilitate large dataset comparisons. For UWV, he supported the migration of data sources to a central data warehouse.    
     - work3:
-      company: Alliander1
+      company: Alliander
       location:
       title: Consultant - Data Engineer
       started: 2017
