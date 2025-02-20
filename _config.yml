@@ -67,13 +67,20 @@ author:
     - line: 
     - line:  Now seeking to leverage my expertise in Data Science, Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI) for impactful projects.
   workHistory:
-    - work2:
+    - work1:
       company: Experis Consultancy(known as Ciber before acquisition in 2016)
       location: Zutphen, Haarlem, Amsterdam, Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
       title: Senior Technical Consultant
       started: 2005
       duration: 2005 - Now  
       description: Most recently, Nils worked as a Data Engineer and Data Analyst for several Dutch government agencies, including RIVM, RVIG, and UWV. Prior to that, he spent over a decade at Alliander (a Dutch energy company) on long-term assignments across various departments. He initially joined Alliander as a Developer before transitioning into roles such as DevOps System Administrator, Data Engineer, and Business Analyst/IT Liaison. At Alliander, he operated in a complex IT environment with 150+ middleware interfaces, applications, and databases. Additionally, he has worked as a Developer, Designer, and Test Coordinator for clients such as RGD, CIZ, Wereld Omroep, and Nuon.
+   - work2:
+      company: Dutch government agencies (RIVM, RVIG ,UWV)
+      location: Utrecht, Den Haag, Amsterdam
+      title: Consultant - Senior Data Engineer and Data Analist
+      started: 2019
+      duration: 2019 - 2025
+      description: At RIVM, the focus was on exposing (open) datasets both within and outside the organization using a GeoCat/GeoNetwork open data catalog. Nils also assisted with systems management for the open data catalog. At RVIG, he worked on data analytics, managing large datasets in PostgreSQL. He optimized performance by refactoring code, for example, to facilitate large dataset comparisons. For UWV, he supported the migration of data sources to a central data warehouse.
     - work3:
       company: Alliander
       location:
@@ -102,14 +109,14 @@ author:
       started: 2000
       duration: 2000 - 2004
       description: Worked as a Developer, Designer, Security Specialist. Developed in C(++), Microsoft solutions and Java. Worked for clients KPN, ABN Amro and Toyota. For Toyota worked on the implementation of a SSO security portal.
-    - work8:
+    - work7:
       company: Cambrigde Technology Partners Consultancy
       location: Frankfurt, Vienna, Amsterdam, Utrecht, Maastricht, Woerden
       title: Senior (Technical) Consultant
       started: 1995
       duration: 1995 - 2000
       description: Worked for clients Vrij Uit, HP, Philips, Interpay, Viag Interkom, Libertel, Achmea, Gerling. For Philips worked on a large oracle data migrition project. Technologies used&#58; Java, Unix, C++, Oracle PL SQL and Python.
-    - work9:
+    - work8:
       company: FDM Pharma
       location: Sopia Antipolis, France
       title: DBA
