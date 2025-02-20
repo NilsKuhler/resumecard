@@ -95,7 +95,7 @@ author:
       started: 2008
       duration: 2013
       description: Nils initially worked in DevOps development, completing key deliverables before transitioning to system administration after two years. He worked with technologies such as Oracle WebLogic Service Bus, Linux, Python, Java, Scala, Tomcat web applications, and databases. He also implemented security guidelines to enhance system integrity. His additional responsibilities included 24/7 monitoring using customizable tools like Nagios, as well as troubleshooting and resolving critical incidents.
-    - work6
+    - work6:
       company: Hewlett Packard Consultancy
       location: Amstelveen, Utrecht, Brussels - Belgium
       title: (Technical) Consultant
