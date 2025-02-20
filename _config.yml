@@ -74,14 +74,14 @@ author:
       started: 2005
       duration: 2005 - Now  
       description: Most recently, Nils worked as a Data Engineer and Data Analyst for several Dutch government agencies, including RIVM, RVIG, and UWV. Prior to that, he spent over a decade at Alliander (a Dutch energy company) on long-term assignments across various departments. He initially joined Alliander as a Developer before transitioning into roles such as DevOps System Administrator, Data Engineer, and Business Analyst/IT Liaison. At Alliander, he operated in a complex IT environment with 150+ middleware interfaces, applications, and databases. Additionally, he has worked as a Developer, Designer, and Test Coordinator for clients such as RGD, CIZ, Wereld Omroep, and Nuon.
-      work3:
+    - work3:
       company: Alliander
       location:
       title: Consultant - Data Engineer
       started: 2017
       duration: 2017 - 2019
       description: Nils provided technical and business support to Alliander the reconciliation (critical,24/7) core process within the company. His responsibilities included database performance tuning, migrations, system phase-outs, and ETL (Extract, Transform, Load) processes. He worked extensively on data manipulation for critical processes using Excel, Notepad++, Oracle Loader, PL/SQL, and custom scripting. Additionally, he participated in a proof-of-concept project utilizing Apache Hadoop and Cassandra Database in the Amazon Cloud.
-      work4:
+    - work4:
       company: Alliander
       location:
       title: Consultant - Business Analyst/IT Liaison
@@ -94,7 +94,8 @@ author:
       title: Consultant Developer, Devops System Administrator
       started: 2008
       duration: 2013
-      description: Nils initially worked in DevOps development, completing key deliverables before transitioning to system administration after two years. He worked with technologies such as Oracle WebLogic Service Bus, Linux, Python, Java, Scala, Tomcat web applications, and databases. He also implemented security guidelines to enhance system integrity. His additional responsibilities included 24/7 monitoring using customizable tools like Nagios, as well as troubleshooting and resolving critical incidents.      
+      description: Nils initially worked in DevOps development, completing key deliverables before transitioning to system administration after two years. He worked with technologies such as Oracle WebLogic Service Bus, Linux, Python, Java, Scala, Tomcat web applications, and databases. He also implemented security guidelines to enhance system integrity. His additional responsibilities included 24/7 monitoring using customizable tools like Nagios, as well as troubleshooting and resolving critical incidents.
+    - work6
       company: Hewlett Packard Consultancy
       location: Amstelveen, Utrecht, Brussels - Belgium
       title: (Technical) Consultant
