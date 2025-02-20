@@ -80,7 +80,7 @@ author:
       title: Consultant - Senior Data Engineer and Data Analist
       started: 2019
       duration: 2019 - 2025
-      description: At RIVM, the focus was on exposing (open) datasets both within and outside the organization using a GeoCat/GeoNetwork open data catalog. Nils also assisted with systems management for the open data catalog. At RVIG, he worked on data analytics, managing large datasets in PostgreSQL. He optimized performance by refactoring code, for example, to facilitate large dataset comparisons. For UWV, he supported the migration of data sources to a central data warehouse.
+      description: 
     - work3:
       company: Alliander
       location:
