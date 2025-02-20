@@ -78,14 +78,14 @@ author:
       company: Alliander
       location:
       title: Consultant - Data Engineer
-      started: 
+      started: 2017
       duration: 2017
       description: Nils provided Alliander with technical and business support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
     - work4:
       company: Alliander
       location:
       title: Consultant - Business Analyst/IT Liaison
-      started: 
+      started: 2012
       duration: 2012
       description: Nils worked on CARS (Centraal aansluitingen register) and SOW(Stroomopwaarts) projects. CARS & SOW haven been very large projects(many partipants/parties involved) in the Dutch energy sector. Nils was responsible for&#58; AS1 en AS2 security and technical communication, the contact with external parties (EDSN, TENNET, AS1&AS2), Q&A(e.g. testing Acceptance Criteria) of deliverables, documentation, CMDB, Technical standards and drafting Security guidelines.
     - work5:
