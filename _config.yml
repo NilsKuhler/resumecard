@@ -74,13 +74,13 @@ author:
       started: 2005
       duration: 2005 - Now  
       description: Most recently, Nils worked as a Data Engineer and Data Analyst for several Dutch government agencies, including RIVM, RVIG, and UWV. Prior to that, he spent over a decade at Alliander (a Dutch energy company) on long-term assignments across various departments. He initially joined Alliander as a Developer before transitioning into roles such as DevOps System Administrator, Data Engineer, and Business Analyst/IT Liaison. At Alliander, he operated in a complex IT environment with 150+ middleware interfaces, applications, and databases. Additionally, he has worked as a Developer, Designer, and Test Coordinator for clients such as RGD, CIZ, Wereld Omroep, and Nuon.
-   - work2:
+    - work2:
       company: Dutch government agencies (RIVM, RVIG ,UWV)
       location: Utrecht, Den Haag, Amsterdam
       title: Consultant - Senior Data Engineer and Data Analist
       started: 2019
       duration: 2019 - 2025
-      description: 
+      description: At RIVM, the focus was on exposing (open) datasets both within and outside the organization using a GeoCat/GeoNetwork open data catalog. Nils also assisted with systems management for the open data catalog. At RVIG, he worked on data analytics, managing large datasets in PostgreSQL. He optimized performance by refactoring code, for example, to facilitate large dataset comparisons. For UWV, he supported the migration of data sources to a central data warehouse.
     - work3:
       company: Alliander
       location:
