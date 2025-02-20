@@ -72,36 +72,33 @@ author:
       location: Zutphen, Haarlem, Amsterdam, Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
       title: Senior Technical Consultant
       started: 2005
-      duration: 2005 - 2019  
-      description: Most recently Nils worked as a Data Engineer/Analist for several dutch government agencies(RIVM, RVIG, UWV). Before he has worked a decade+ a for client Alliander(Dutch Energy company) on long term assignments for different departments. For Alliander he initially started as a Developer, later switched roles to Devops System Administrator, Data Engineer, Business Analyst/IT Liaison. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. Worked as Developer, Designer, Test coordination for the following clients RGD, CIZ, Wereld Omroep, Nuon.
-    - work3:
+      duration: 2005 - Now  
+      description: Most recently, Nils worked as a Data Engineer and Data Analyst for several Dutch government agencies, including RIVM, RVIG, and UWV. Prior to that, he spent over a decade at Alliander (a Dutch energy company) on long-term assignments across various departments. He initially joined Alliander as a Developer before transitioning into roles such as DevOps System Administrator, Data Engineer, and Business Analyst/IT Liaison. At Alliander, he operated in a complex IT environment with 150+ middleware interfaces, applications, and databases. Additionally, he has worked as a Developer, Designer, and Test Coordinator for clients such as RGD, CIZ, Wereld Omroep, and Nuon.    - work3:
       company: Alliander
       location:
       title: Consultant - Data Engineer
       started: 2017
-      duration: 2017
-      description: Nils provided Alliander with technical and business support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
-    - work4:
+      duration: 2017 - 2019
+      description: Nils provided technical and business support to Alliander the reconciliation (critical,24/7) core process within the company. His responsibilities included database performance tuning, migrations, system phase-outs, and ETL (Extract, Transform, Load) processes. He worked extensively on data manipulation for critical processes using Excel, Notepad++, Oracle Loader, PL/SQL, and custom scripting. Additionally, he participated in a proof-of-concept project utilizing Apache Hadoop and Cassandra Database in the Amazon Cloud.    - work4:
       company: Alliander
       location:
       title: Consultant - Business Analyst/IT Liaison
-      started: 2012
-      duration: 2012
-      description: Nils worked on CARS (Centraal aansluitingen register) and SOW(Stroomopwaarts) projects. CARS & SOW haven been very large projects(many partipants/parties involved) in the Dutch energy sector. Nils was responsible for&#58; AS1 en AS2 security and technical communication, the contact with external parties (EDSN, TENNET, AS1&AS2), Q&A(e.g. testing Acceptance Criteria) of deliverables, documentation, CMDB, Technical standards and drafting Security guidelines.
+      started: 2013
+      duration: 2017
+      description: Nils worked on the CARS (Centraal Aansluitingen Register) and SOW (Stroomopwaarts) projects, both of which were large-scale initiatives in the Dutch energy sector involving multiple stakeholders. He was responsible for AS1 and AS2 security and technical communication. Serving as the point of contact for external parties, including EDSN, TENNET, and AS1/AS2 partners. Q&A of deliverables, including testing against acceptance criteria, Documentation management, CMDB maintenance, and ensuring compliance with technical standards. Drafting security guidelines to enhance system integrity and regulatory compliance.
     - work5:
-      company: Alliander
+      company: NUON/Alliander - Initially worked for NUON, which demerged into NUON and Alliander in 2009, and continued working for Alliander thereafter.
       location:
       title: Consultant Developer, Devops System Administrator
       started: 2008
-      duration: 
-      description: Nils worked in maintenance and DEVOPS development on Oracle Weblogic Service Bus, linux, Python, java, scala, tomcat web apps and databases. Nils has implemented security guidelines. Other tasks also included 24/7 monitoring tasks using (customizable) tooling like Nagios and solving (critical) incidents.
-    - work7:
+      duration: 2013
+      description: Nils initially worked in DevOps development, completing key deliverables before transitioning to system administration after two years. He worked with technologies such as Oracle WebLogic Service Bus, Linux, Python, Java, Scala, Tomcat web applications, and databases. He also implemented security guidelines to enhance system integrity. His additional responsibilities included 24/7 monitoring using customizable tools like Nagios, as well as troubleshooting and resolving critical incidents.      
       company: Hewlett Packard Consultancy
       location: Amstelveen, Utrecht, Brussels - Belgium
       title: (Technical) Consultant
       started: 2000
       duration: 2000 - 2004
-      description: Worked as a Developer, Designer, Security Specialist. I developed in C(++), Microsoft solutions and Java. I worked for clients KPN, ABN Amro and Toyota. For Toyota worked on the implementation of a SSO security portal.
+      description: Worked as a Developer, Designer, Security Specialist. Developed in C(++), Microsoft solutions and Java. Worked for clients KPN, ABN Amro and Toyota. For Toyota worked on the implementation of a SSO security portal.
     - work8:
       company: Cambrigde Technology Partners Consultancy
       location: Frankfurt, Vienna, Amsterdam, Utrecht, Maastricht, Woerden
