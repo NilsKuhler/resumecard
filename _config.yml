@@ -69,39 +69,32 @@ author:
   workHistory:
     - work2:
       company: Experis Consultancy(known as Ciber before acquisition in 2016) - Client Alliander
-      location: Zutphen, Haarlem, Amsterdam
+      location: Zutphen, Haarlem, Amsterdam, Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
       title: Senior Technical Consultant
-      started: 2008
-      duration: 2008 - 2019  
-      description: As an external Ciber consultant Nils worked a decade+ a for client Alliander(Dutch Energy company) on long term assignments for different departments. Initially he started as a Developer, later switched roles to Devops System Administrator, Data Engineer, Business Analyst/IT Liaison. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases.
+      started: 2005
+      duration: 2005 - 2019  
+      description: Most recently Nils worked as a Data Engineer/Analist for several dutch government agencies(RIVM, RVIG, UWV). Before he has worked a decade+ a for client Alliander(Dutch Energy company) on long term assignments for different departments. For Alliander he initially started as a Developer, later switched roles to Devops System Administrator, Data Engineer, Business Analyst/IT Liaison. At Alliander I worked in an environment with 150+ middleware Interfaces, applications and databases. Worked as Developer, Designer, Test coordination for the following clients RGD, CIZ, Wereld Omroep, Nuon.
     - work3:
-      company: 
+      company: Alliander
       location:
-      title: Data Engineer
+      title: Consultant - Data Engineer
       started: 
-      duration: 
+      duration: 2017
       description: Nils provided Alliander with technical and business support for the reconciliation process model. Alloc/Reconciliation is one of the critical 24/7 core processses in Alliander. Other tasks were database performance tuning, migration, phase outs, ETL(Extract Transform Load)/Data manipulation of critical process data with Excel, Notepad++, Oracle Loader, PL SQL, custom scripting). I participated proof of concept project with Apache Hadoop and Cassandra Database in the Amazon Cloud.
     - work4:
-      company: 
+      company: Alliander
       location:
-      title: Business Analyst/IT Liaison
+      title: Consultant - Business Analyst/IT Liaison
       started: 
-      duration: 
+      duration: 2012
       description: Nils worked on CARS (Centraal aansluitingen register) and SOW(Stroomopwaarts) projects. CARS & SOW haven been very large projects(many partipants/parties involved) in the Dutch energy sector. Nils was responsible for&#58; AS1 en AS2 security and technical communication, the contact with external parties (EDSN, TENNET, AS1&AS2), Q&A(e.g. testing Acceptance Criteria) of deliverables, documentation, CMDB, Technical standards and drafting Security guidelines.
     - work5:
-      company: 
+      company: Alliander
       location:
-      title: Development, Devops System Administration
-      started: 
+      title: Consultant Developer, Devops System Administrator
+      started: 2008
       duration: 
       description: Nils worked in maintenance and DEVOPS development on Oracle Weblogic Service Bus, linux, Python, java, scala, tomcat web apps and databases. Nils has implemented security guidelines. Other tasks also included 24/7 monitoring tasks using (customizable) tooling like Nagios and solving (critical) incidents.
-    - work6:
-      company: Ciber Consultancy
-      location: Hilversum, Den Hague, Eindhoven, Nieuwegein, Schiphol
-      title: Senior Technical Consultant
-      started: 2004
-      duration: 2004 - 2008
-      description: Worked as Developer, Designer, Test coordination for the following clients RGD, CIZ, Wereld Omroep, Nuon.
     - work7:
       company: Hewlett Packard Consultancy
       location: Amstelveen, Utrecht, Brussels - Belgium
@@ -111,7 +104,7 @@ author:
       description: Worked as a Developer, Designer, Security Specialist. I developed in C(++), Microsoft solutions and Java. I worked for clients KPN, ABN Amro and Toyota. For Toyota worked on the implementation of a SSO security portal.
     - work8:
       company: Cambrigde Technology Partners Consultancy
-      location: Frankfurt - Germany, Vienna - Austria, Amsterdam, Utrecht, Maastricht, Woerden
+      location: Frankfurt, Vienna, Amsterdam, Utrecht, Maastricht, Woerden
       title: Senior (Technical) Consultant
       started: 1995
       duration: 1995 - 2000
